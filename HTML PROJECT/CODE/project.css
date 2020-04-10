@@ -1,0 +1,192 @@
+
+#viewport{
+    background-image: url(https://hyperlnk.regulus.uberspace.de/pics/freedom.jpg);
+    height: 100%;
+    width: 100%;
+    -moz-background-size: cover;
+-webkit-background-size: cover;
+    background-size: cover;
+  background-position: center center;
+  text-decoration: aquamarine;
+}
+#heading{
+   border:1px solid black;
+   height:110px;
+   width:auto;
+   background-color: black;
+   color: white;
+}
+ .nav-item{
+    margin-left:60px;
+    margin-right:60px;
+ }
+#main{
+    font-size: 50px;
+    text-align: center;
+   position: relative;top: 200px;
+   color: white;
+}
+#form{
+
+    height:1000px;
+    width:400px;
+     margin-right: 800px;
+    font-size: 20px;
+   padding-bottom: 10px;
+   color: white;
+   font-style: italic;
+ 
+}
+#Email{
+    padding: 5px;
+    margin-left:3px ;
+    border: solid 1px black;
+    box-sizing: border-box;
+border-radius: 10px;
+
+}
+#username{
+    padding: 5px;
+    margin-left:6px ;
+    border: solid 1px black;
+    border-radius: 10px;
+
+}
+#password{
+    padding: 5px;
+    margin-left: 9px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+#gender{
+    padding: 5px;
+    margin-left: 12px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+#certification{
+    padding: 5px;
+    margin-left: 15px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+#Age{
+    padding: 5px;
+    margin-left: 18px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+#date{
+    padding: 5px;
+    margin-left: 21px;
+    border: solid 1px black;
+    border-radius: 10px;
+
+}
+.reset{
+    position: relative;left: 300px;top:20px;
+}
+.sub{
+    margin-left: 10px;
+    border: black 1px solid;
+    border-radius: 2    px;
+}
+.anchor{
+    color: tomato;
+}
+#services{
+    height: auto;
+    width:auto;
+    color: white;
+    text-indent: 20px;
+    text-shadow: white;
+    border: white 1px solid;
+    padding: 5px;
+    font-weight: 900px;
+    font-size: larger;
+
+}
+#ff{
+    padding-right:10px;
+    margin-right: 10px;
+}
+
+.russia{
+    position: relative;right:30px;
+    width: 520px;
+}
+.germany{
+    position: relative;right:30px;
+    width: 520px;
+
+}
+.sign{
+    color: tomato;
+}
+#customer{
+    color: white;
+    width:500px;
+    font-style: oblique;
+    width:auto;
+    text-transform: inherit;
+   text-align-last: center;
+}
+#carousel-inner{
+    width: 800px;
+    height: 400px;
+}
+
+    
+}
+#login{
+    color: white;
+
+    height:100px;
+    width: 400px;
+}
+#packages{
+    border: solid white 1px;
+    color: black;
+
+}
+#aboutc{
+ text-align: center;
+    color: white;
+    border: solid white 1px;
+    width: 400px;
+    height: auto;
+
+
+}
+.cus{
+    color: tomato;
+}
+#shops{
+    color: white;
+    width: 250px;
+}
+.tab{
+    table-layout: fixed;
+    width:200px;
+}
+
+.accordion{
+    background-color: black;
+}
+.card{
+    background-color: black;
+}
+
+#collapseOne{
+    background-color: black;
+}
+#collapseTwo{
+    background-color: black;
+}#collapseThree{
+    background-color: black;
+}
+#form-group{
+    border: 1px black solid;
+    width:900px;
+}
